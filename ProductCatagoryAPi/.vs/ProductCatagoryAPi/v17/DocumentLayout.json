@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F17351-461C-47F4-8183-8F299380014E}|ProductCatagoryAPi\\ProductCatagoryAPi.csproj|c:\\users\\scsl\\downloads\\productcatagoryapi\\productcatagoryapi\\productcatagoryapi\\controllers\\productcategoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F17351-461C-47F4-8183-8F299380014E}|ProductCatagoryAPi\\ProductCatagoryAPi.csproj|solutionrelative:productcatagoryapi\\controllers\\productcategoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F17351-461C-47F4-8183-8F299380014E}|ProductCatagoryAPi\\ProductCatagoryAPi.csproj|c:\\users\\scsl\\downloads\\productcatagoryapi\\productcatagoryapi\\productcatagoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F17351-461C-47F4-8183-8F299380014E}|ProductCatagoryAPi\\ProductCatagoryAPi.csproj|solutionrelative:productcatagoryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F17351-461C-47F4-8183-8F299380014E}|ProductCatagoryAPi\\ProductCatagoryAPi.csproj|c:\\users\\scsl\\downloads\\productcatagoryapi\\productcatagoryapi\\productcatagoryapi\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F17351-461C-47F4-8183-8F299380014E}|ProductCatagoryAPi\\ProductCatagoryAPi.csproj|solutionrelative:productcatagoryapi\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F17351-461C-47F4-8183-8F299380014E}|ProductCatagoryAPi\\ProductCatagoryAPi.csproj|c:\\users\\scsl\\downloads\\productcatagoryapi\\productcatagoryapi\\productcatagoryapi\\productcatagoryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0F17351-461C-47F4-8183-8F299380014E}|ProductCatagoryAPi\\ProductCatagoryAPi.csproj|solutionrelative:productcatagoryapi\\productcatagoryapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F17351-461C-47F4-8183-8F299380014E}|ProductCatagoryAPi\\ProductCatagoryAPi.csproj|c:\\users\\scsl\\downloads\\productcatagoryapi\\productcatagoryapi\\productcatagoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0F17351-461C-47F4-8183-8F299380014E}|ProductCatagoryAPi\\ProductCatagoryAPi.csproj|solutionrelative:productcatagoryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F17351-461C-47F4-8183-8F299380014E}|ProductCatagoryAPi\\ProductCatagoryAPi.csproj|c:\\users\\scsl\\downloads\\productcatagoryapi\\productcatagoryapi\\productcatagoryapi\\migrations\\20250529120023_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0F17351-461C-47F4-8183-8F299380014E}|ProductCatagoryAPi\\ProductCatagoryAPi.csproj|solutionrelative:productcatagoryapi\\migrations\\20250529120023_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductCategorysController.cs",
+              "DocumentMoniker": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi\\Controllers\\ProductCategorysController.cs",
+              "RelativeDocumentMoniker": "ProductCatagoryAPi\\Controllers\\ProductCategorysController.cs",
+              "ToolTip": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi\\Controllers\\ProductCategorysController.cs",
+              "RelativeToolTip": "ProductCatagoryAPi\\Controllers\\ProductCategorysController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAuwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:04:13.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250529120023_init.cs",
+              "DocumentMoniker": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi\\Migrations\\20250529120023_init.cs",
+              "RelativeDocumentMoniker": "ProductCatagoryAPi\\Migrations\\20250529120023_init.cs",
+              "ToolTip": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi\\Migrations\\20250529120023_init.cs",
+              "RelativeToolTip": "ProductCatagoryAPi\\Migrations\\20250529120023_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:00:23.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCatagoryAPi\\appsettings.json",
+              "ToolTip": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi\\appsettings.json",
+              "RelativeToolTip": "ProductCatagoryAPi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T11:55:47.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatagoryAPi\\Program.cs",
+              "ToolTip": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi\\Program.cs",
+              "RelativeToolTip": "ProductCatagoryAPi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:54:25.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "ProductCatagoryAPi\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "ProductCatagoryAPi\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA2wB0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:32:45.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCatagoryAPi.csproj",
+              "DocumentMoniker": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi.csproj",
+              "RelativeDocumentMoniker": "ProductCatagoryAPi\\ProductCatagoryAPi.csproj",
+              "ToolTip": "C:\\Users\\SCSL\\Downloads\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi\\ProductCatagoryAPi.csproj",
+              "RelativeToolTip": "ProductCatagoryAPi\\ProductCatagoryAPi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T11:38:11.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
